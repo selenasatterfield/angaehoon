@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aengeexox.jamesgwilliams.com/sitemap.xml
